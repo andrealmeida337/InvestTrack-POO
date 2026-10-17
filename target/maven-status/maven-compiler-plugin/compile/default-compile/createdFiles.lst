@@ -1,0 +1,8 @@
+br\com\investtrack\Posicao.class
+br\com\investtrack\App.class
+br\com\investtrack\Ativo.class
+br\com\investtrack\Cotacao.class
+br\com\investtrack\Operacao$Tipo.class
+br\com\investtrack\Carteira.class
+br\com\investtrack\Operacao.class
+br\com\investtrack\Investidor.class

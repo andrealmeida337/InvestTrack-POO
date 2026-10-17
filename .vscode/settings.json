@@ -1,0 +1,6 @@
+{
+    "editor.fontSize": 17,
+    "editor.inlineSuggest.edits.allowCodeShifting": "never",
+    "editor.inlineSuggest.edits.renderSideBySide": "never",
+    "java.configuration.updateBuildConfiguration": "interactive"
+}
